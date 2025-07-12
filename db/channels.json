@@ -40,6 +40,166 @@
         "locale": "en-US"
     },
     {
+        "id": "C12345680",
+        "name": "support-data",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "created": 1720761600,
+        "creator": "W12345678",
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "support-data",
+        "is_read_only": false,
+        "is_shared": false,
+        "is_ext_shared": false,
+        "is_org_shared": false,
+        "pending_shared": [],
+        "is_pending_ext_shared": false,
+        "is_member": true,
+        "is_private": false,
+        "is_mpim": false,
+        "last_read": "1720761600.000000",
+        "members": [
+            "W12345678",
+            "W12345679"
+        ],
+        "topic": {
+            "value": "Support for data issues",
+            "creator": "W12345678",
+            "last_set": 1720761600
+        },
+        "purpose": {
+            "value": "Discuss and resolve data-related support requests.",
+            "creator": "W12345678",
+            "last_set": 1720761600
+        },
+        "previous_names": [],
+        "num_members": 2,
+        "locale": "en-US"
+    },
+    {
+        "id": "C12345681",
+        "name": "support-ui",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "created": 1720761600,
+        "creator": "W12345678",
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "support-ui",
+        "is_read_only": false,
+        "is_shared": false,
+        "is_ext_shared": false,
+        "is_org_shared": false,
+        "pending_shared": [],
+        "is_pending_ext_shared": false,
+        "is_member": true,
+        "is_private": false,
+        "is_mpim": false,
+        "last_read": "1720761600.000000",
+        "members": [
+            "W12345678",
+            "W12345679"
+        ],
+        "topic": {
+            "value": "Support for UI issues",
+            "creator": "W12345678",
+            "last_set": 1720761600
+        },
+        "purpose": {
+            "value": "Discuss and resolve UI-related support requests.",
+            "creator": "W12345678",
+            "last_set": 1720761600
+        },
+        "previous_names": [],
+        "num_members": 2,
+        "locale": "en-US"
+    },
+    {
+        "id": "C12345682",
+        "name": "support-sre",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "created": 1720761600,
+        "creator": "W12345678",
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "support-sre",
+        "is_read_only": false,
+        "is_shared": false,
+        "is_ext_shared": false,
+        "is_org_shared": false,
+        "pending_shared": [],
+        "is_pending_ext_shared": false,
+        "is_member": true,
+        "is_private": false,
+        "is_mpim": false,
+        "last_read": "1720761600.000000",
+        "members": [
+            "W12345678",
+            "W12345679"
+        ],
+        "topic": {
+            "value": "Support for SRE issues",
+            "creator": "W12345678",
+            "last_set": 1720761600
+        },
+        "purpose": {
+            "value": "Discuss and resolve SRE-related support requests.",
+            "creator": "W12345678",
+            "last_set": 1720761600
+        },
+        "previous_names": [],
+        "num_members": 2,
+        "locale": "en-US"
+    },
+    {
+        "id": "C12345683",
+        "name": "support",
+        "is_channel": true,
+        "is_group": false,
+        "is_im": false,
+        "created": 1720761600,
+        "creator": "W12345678",
+        "is_archived": false,
+        "is_general": false,
+        "unlinked": 0,
+        "name_normalized": "support",
+        "is_read_only": false,
+        "is_shared": false,
+        "is_ext_shared": false,
+        "is_org_shared": false,
+        "pending_shared": [],
+        "is_pending_ext_shared": false,
+        "is_member": true,
+        "is_private": false,
+        "is_mpim": false,
+        "last_read": "1720761600.000000",
+        "members": [
+            "W12345678",
+            "W12345679"
+        ],
+        "topic": {
+            "value": "General support",
+            "creator": "W12345678",
+            "last_set": 1720761600
+        },
+        "purpose": {
+            "value": "Discuss and resolve general support requests.",
+            "creator": "W12345678",
+            "last_set": 1720761600
+        },
+        "previous_names": [],
+        "num_members": 2,
+        "locale": "en-US"
+    },
+    {
         "id": "C12345678",
         "name": "random",
         "is_channel": true,
