@@ -2,7 +2,7 @@
     {
         "id": "W10000001",
         "team_id": "T00000001",
-        "name": "flik.support",
+        "name": "Flik (customer support)",
         "deleted": false,
         "color": "36a64f",
         "real_name": "Flik",
@@ -40,7 +40,7 @@
     {
         "id": "W10000002",
         "team_id": "T00000001",
-        "name": "atta.incidentmgr",
+        "name": "Atta (incident manager)",
         "deleted": false,
         "color": "e3b42c",
         "real_name": "Princess Atta",
@@ -78,7 +78,7 @@
     {
         "id": "W10000003",
         "team_id": "T00000001",
-        "name": "dot.product",
+        "name": "Dot (product owner)",
         "deleted": false,
         "color": "de5f65",
         "real_name": "Dot",
@@ -116,7 +116,7 @@
     {
         "id": "W10000004",
         "team_id": "T00000001",
-        "name": "heimlich.ui",
+        "name": "Heimlich (frontend)",
         "deleted": false,
         "color": "e01e5a",
         "real_name": "Heimlich",
@@ -154,7 +154,7 @@
     {
         "id": "W10000005",
         "team_id": "T00000001",
-        "name": "manny.sre",
+        "name": "Manny (SRE)",
         "deleted": false,
         "color": "4a154b",
         "real_name": "Manny",
@@ -192,7 +192,7 @@
     {
         "id": "W10000006",
         "team_id": "T00000001",
-        "name": "francis.cpp",
+        "name": "Francis (C++)",
         "deleted": false,
         "color": "3aa3e3",
         "real_name": "Francis",
@@ -230,7 +230,7 @@
     {
         "id": "W10000007",
         "team_id": "T00000001",
-        "name": "slim.data",
+        "name": "Slim (data)",
         "deleted": false,
         "color": "8c6fef",
         "real_name": "Slim",
@@ -268,7 +268,7 @@
     {
         "id": "W10000008",
         "team_id": "T00000001",
-        "name": "rosie.customer",
+        "name": "Rosie (customer)",
         "deleted": false,
         "color": "e0175e",
         "real_name": "Rosie",
@@ -306,7 +306,7 @@
     {
         "id": "W10000009",
         "team_id": "T00000001",
-        "name": "hopper.debt",
+        "name": "Hopper (pressure)",
         "deleted": false,
         "color": "000000",
         "real_name": "Hopper",
