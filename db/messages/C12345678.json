@@ -45,8 +45,7 @@
         "ts": "1720853760.000007"
     },
     "1720853770.000008": {
-        "type": "message",
-        "user_id": "W10000002",
+        "type": "message", "user_id": "W10000002",
         "text": "@everyone Hopper has escalated to Antelligence execs. We need coordinated updates.",
         "ts": "1720853770.000008"
     },

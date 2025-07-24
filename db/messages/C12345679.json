@@ -1,5 +1,77 @@
 {
     "meta": {
-        "last_id": 0
+        "last_id": 12
+    },
+    "1720853700.000001": {
+        "type": "message",
+        "user_id": "W10000001",
+        "text": "PagerDuty: Incident assigned to flik.support - 'Goldkern Sacks: Dashboards not loading. URGENT.'",
+        "ts": "1720853700.000001"
+    },
+    "1720853710.000002": {
+        "type": "message",
+        "user_id": "W10000001",
+        "text": "@heimlich.ui @manny.sre @atta.incidentmgr All GS dashboards are down. No visualizations. Client is blind. Need help ASAP.",
+        "ts": "1720853710.000002"
+    },
+    "1720853720.000003": {
+        "type": "message",
+        "user_id": "W10000001",
+        "text": "Searched Confluence for 'dashboard outage' runbook. Nothing useful. Anyone have a link?",
+        "ts": "1720853720.000003"
+    },
+    "1720853730.000004": {
+        "type": "message",
+        "user_id": "W10000004",
+        "text": "Is it just one client? One user? Cache cleared? Supported browser? Firewall blocking websockets?",
+        "ts": "1720853730.000004"
+    },
+    "1720853740.000005": {
+        "type": "message",
+        "user_id": "W10000009",
+        "text": "We need this fixed NOW. This is costing us millions.",
+        "ts": "1720853740.000005"
+    },
+    "1720853750.000006": {
+        "type": "message",
+        "user_id": "W10000004",
+        "text": "Logs show standard third-party errors. Nothing new. Still investigating.",
+        "ts": "1720853750.000006"
+    },
+    "1720853760.000007": {
+        "type": "message",
+        "user_id": "W10000005",
+        "text": "Checking frontend pod logs. Seeing some errors, but these are old. Not related to outage.",
+        "ts": "1720853760.000007"
+    },
+    "1720853770.000008": {
+        "type": "message",
+        "user_id": "W10000002",
+        "text": "@everyone Hopper has escalated to Antelligence execs. We need coordinated updates.",
+        "ts": "1720853770.000008"
+    },
+    "1720853780.000009": {
+        "type": "message",
+        "user_id": "W10000005",
+        "text": "Backend JSON payload has empty data field. Row count zero. @francis.cpp wrote this service but he’s at CPP Con.",
+        "ts": "1720853780.000009"
+    },
+    "1720853790.000010": {
+        "type": "message",
+        "user_id": "W10000005",
+        "text": "Was there a release this weekend? What changed? Anyone checked Data team’s Airflow cluster?",
+        "ts": "1720853790.000010"
+    },
+    "1720853800.000011": {
+        "type": "message",
+        "user_id": "W10000007",
+        "text": "Joining the call. Checking Airflow logs now. Clock is ticking.",
+        "ts": "1720853800.000011"
+    },
+    "1720853810.000012": {
+        "type": "message",
+        "user_id": "W10000009",
+        "text": "Still no data since market open. Losses are mounting. Top Antelligence execs are now on this thread.",
+        "ts": "1720853810.000012"
     }
 }
